@@ -1,0 +1,13 @@
+C:\Users\w22027709\source\repos\CourseCorrect\bin\Debug\netcoreapp3.1\CourseCorrect.exe
+C:\Users\w22027709\source\repos\CourseCorrect\bin\Debug\netcoreapp3.1\CourseCorrect.deps.json
+C:\Users\w22027709\source\repos\CourseCorrect\bin\Debug\netcoreapp3.1\CourseCorrect.runtimeconfig.json
+C:\Users\w22027709\source\repos\CourseCorrect\bin\Debug\netcoreapp3.1\CourseCorrect.runtimeconfig.dev.json
+C:\Users\w22027709\source\repos\CourseCorrect\bin\Debug\netcoreapp3.1\CourseCorrect.dll
+C:\Users\w22027709\source\repos\CourseCorrect\bin\Debug\netcoreapp3.1\CourseCorrect.pdb
+C:\Users\w22027709\source\repos\CourseCorrect\obj\Debug\netcoreapp3.1\CourseCorrect.csprojAssemblyReference.cache
+C:\Users\w22027709\source\repos\CourseCorrect\obj\Debug\netcoreapp3.1\CourseCorrect.csproj.CoreCompileInputs.cache
+C:\Users\w22027709\source\repos\CourseCorrect\obj\Debug\netcoreapp3.1\CourseCorrect.AssemblyInfoInputs.cache
+C:\Users\w22027709\source\repos\CourseCorrect\obj\Debug\netcoreapp3.1\CourseCorrect.AssemblyInfo.cs
+C:\Users\w22027709\source\repos\CourseCorrect\obj\Debug\netcoreapp3.1\CourseCorrect.dll
+C:\Users\w22027709\source\repos\CourseCorrect\obj\Debug\netcoreapp3.1\CourseCorrect.pdb
+C:\Users\w22027709\source\repos\CourseCorrect\obj\Debug\netcoreapp3.1\CourseCorrect.genruntimeconfig.cache
