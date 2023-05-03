@@ -6,21 +6,21 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace CourseCorrect
+namespace CourseCorrect.Views
 {
-    public partial class signupForm : Form
+    public partial class courseDetails : Form
     {
-        public signupForm()
+        public courseDetails()
         {
             InitializeComponent();
         }
 
-        private void signupForm_Load(object sender, EventArgs e)
+        private void label6_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void btn_signup_Click(object sender, EventArgs e)
+        private void courseDetails_Load(object sender, EventArgs e)
         {
 
         }

@@ -2,13 +2,31 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="Views\AddCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\courseDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\courseLists.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Views\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Views\loginForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Views\MainAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\mainClientDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Views\signupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\waitingList.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

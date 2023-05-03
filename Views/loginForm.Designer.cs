@@ -31,8 +31,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.loginUsernameLabel = new System.Windows.Forms.Label();
             this.loginPasswordLabel = new System.Windows.Forms.Label();
-            this.loginUsernameTextbox = new System.Windows.Forms.TextBox();
-            this.loginPasswordTextbox = new System.Windows.Forms.TextBox();
+            this.txt_usernameLogin = new System.Windows.Forms.TextBox();
+            this.txt_passwordLogin = new System.Windows.Forms.TextBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -70,21 +70,21 @@
             this.loginPasswordLabel.TabIndex = 1;
             this.loginPasswordLabel.Text = "Password";
             // 
-            // loginUsernameTextbox
+            // txt_usernameLogin
             // 
-            this.loginUsernameTextbox.Font = new System.Drawing.Font("Segoe UI Historic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.loginUsernameTextbox.Location = new System.Drawing.Point(325, 163);
-            this.loginUsernameTextbox.Name = "loginUsernameTextbox";
-            this.loginUsernameTextbox.Size = new System.Drawing.Size(295, 35);
-            this.loginUsernameTextbox.TabIndex = 2;
+            this.txt_usernameLogin.Font = new System.Drawing.Font("Segoe UI Historic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txt_usernameLogin.Location = new System.Drawing.Point(325, 163);
+            this.txt_usernameLogin.Name = "txt_usernameLogin";
+            this.txt_usernameLogin.Size = new System.Drawing.Size(295, 35);
+            this.txt_usernameLogin.TabIndex = 2;
             // 
-            // loginPasswordTextbox
+            // txt_passwordLogin
             // 
-            this.loginPasswordTextbox.Font = new System.Drawing.Font("Segoe UI Historic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.loginPasswordTextbox.Location = new System.Drawing.Point(325, 223);
-            this.loginPasswordTextbox.Name = "loginPasswordTextbox";
-            this.loginPasswordTextbox.Size = new System.Drawing.Size(295, 35);
-            this.loginPasswordTextbox.TabIndex = 2;
+            this.txt_passwordLogin.Font = new System.Drawing.Font("Segoe UI Historic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txt_passwordLogin.Location = new System.Drawing.Point(325, 223);
+            this.txt_passwordLogin.Name = "txt_passwordLogin";
+            this.txt_passwordLogin.Size = new System.Drawing.Size(295, 35);
+            this.txt_passwordLogin.TabIndex = 2;
             // 
             // checkBox1
             // 
@@ -148,8 +148,8 @@
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.checkBox1);
-            this.Controls.Add(this.loginPasswordTextbox);
-            this.Controls.Add(this.loginUsernameTextbox);
+            this.Controls.Add(this.txt_passwordLogin);
+            this.Controls.Add(this.txt_usernameLogin);
             this.Controls.Add(this.loginPasswordLabel);
             this.Controls.Add(this.loginUsernameLabel);
             this.Controls.Add(this.label1);
@@ -165,8 +165,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label loginUsernameLabel;
         private System.Windows.Forms.Label loginPasswordLabel;
-        private System.Windows.Forms.TextBox loginUsernameTextbox;
-        private System.Windows.Forms.TextBox loginPasswordTextbox;
+        private System.Windows.Forms.TextBox txt_usernameLogin;
+        private System.Windows.Forms.TextBox txt_passwordLogin;
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.CheckBox checkBox2;
         private System.Windows.Forms.Label label2;
